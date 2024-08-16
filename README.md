@@ -1,7 +1,7 @@
 # About me
 * I am interested in AI and Biology applied to Mental Health.
 * I have more 20 years of experience
-* I have a BS in Electronics Engineering and a MS in Telecommunications
+* I have a BS in Electronics Engineering, a MS in Telecommunications and a certificate in Computer Networking.
 
 # [Short Bio](https://aavella77.github.io/about.html)<br><br>
 
