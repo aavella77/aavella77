@@ -17,6 +17,16 @@
   </a>
 </p>
 
+## 💻 Technologies and Tools
+<p align="left"> 
+	<code> <img height="32" width="32" src="images/python.svg" /> </code>
+	<code> <img height="32" width="32" src="images/flask.svg" /> </code>
+	<code> <img height="32" width="32" src="images/git.svg" /> </code>
+	<code> <img height="32" width="32" src="images/html5.svg" /> </code>
+	<code> <img height="32" width="32" src="images/css3.svg" /> </code>
+	<code> <img height="32" width="32" src="images/linux.svg" /> </code>
+</p>  
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aavella77&label=Profile%20views&color=0e75b6&style=flat" alt="aavella77" /> </p>
 <a href="https://github-readme-stats.vercel.app/api?username=aavella77">Alejandro Avella's GitHub stats]<br>
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=aavella77&repo=deeplearning-ai-intro-python-chatbot-)](https://github.com/aavella77/deeplearning-ai-intro-python-chatbot-)
