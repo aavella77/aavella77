@@ -1,6 +1,6 @@
 # About me
 * I am a Software Engineer in Test.
-* I have more 20 years of experience.
+* I have more than 20 years of experience.
 * I have a BS in Electronics Engineering, a MS in Telecommunications and a certificate in Computer Networking.
 
 # [Short Bio](https://aavella77.github.io/about.html)<br><br>
