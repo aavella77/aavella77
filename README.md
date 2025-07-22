@@ -30,11 +30,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aavella77&label=Profile%20views&color=0e75b6&style=flat" alt="aavella77" /> </p>
 
-
-## 📈 Github Stats
 <!--
+## 📈 Github Stats
+
  https://github.com/anuraghazra/github-readme-stats
- -->
+
 <details>
   <summary>📊 GitHub Profile Stats</summary>
   <br/>
@@ -47,4 +47,5 @@
   <a href="https://github.com/DenverCoder1/github-readme-streak-stats"><img alt="Alejandro Avella's GitHub Streak" src="https://github-readme-streak-stats.herokuapp.com/?user=aavella77&theme=prussian" /></a>
 </details>
 <br />
+ -->
 
